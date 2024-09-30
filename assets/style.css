@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap');
+
+:root{
+  --text-color: #ffffff;
+  --card-front-color: #BC9E3E;
+  --card-back-color: #51BBA9;
+}
+
+body {
+  background: url(img/bg-desktop-blue.webp);
+  font-family: Handjet;
+}
